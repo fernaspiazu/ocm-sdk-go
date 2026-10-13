@@ -3,6 +3,41 @@
 This document describes the relevant changes between releases of the OCM API
 SDK.
 
+## 0.1.2 Oct 13 2026
+
+- ROSAENG-65575 | fix: Make JWKS parseKey() algorithm-agile
+- chore: bump version to v0.1.517
+- chore: bump version to v0.1.516
+- chore: bump ocm-api-model to v0.0.470
+- ROSAENG-65574 | fix: change hardcoded InsecureSkipVerify in OAuth2 auth code flow
+- chore: bump version to v0.1.515
+- chore: bump ocm-api-model to v0.0.469
+- chore: bump version to v0.1.514
+- ROSAENG-65574 | fix: restrict JWT signing methods via ValidMethods
+- docs: update CONTRIBUTING.md with new automated release workflow
+- chore: bump version to v0.1.513
+- ROSAENG-62396 | test: trigger automate sdk release
+- ROSAENG-62396 | fix: automate sdk release - edge case address
+- ROSAENG-62396 | fix: automate sdk release - edge case address
+- ROSAENG-62396 | fix: automate sdk release
+- chore: bump version to v0.1.512
+- chore: bump ocm-api-model to v0.0.468
+- fix: pin golang version for linting to go.mod version we use for ocm-lint binary
+- chore: bump version to v0.1.511
+- chore: bump ocm-api-model to v0.0.466
+- ROSAENG-13732 | feat: Implement BYO firewall rule endpoint verification
+- chore: bump ocm-api-model to v0.0.465
+- Update CONTRIBUTING.md
+- chore: bump version to v0.1.509
+- chore: bump ocm-api-model to v0.0.464
+- ROSAENG-62396 | chore: bump version to v0.1.508
+- ROSAENG-61162 | feat: changes to support BYO firewall for OSD-GCP deployments
+- chore: bump ocm-api-model to v0.0.463
+- ROSAENG-61032 | feat: changes to support SpotMarketOptions for ROSA HCP
+- ROSAENG-62396 | fix: automated release github workflow
+- chore: bump ocm-api-model to v0.0.462
+
+
 ## 0.1.517 Sep 30 2026
 
 - ROSAENG-65574 | fix: change hardcoded InsecureSkipVerify in OAuth2 auth code flow

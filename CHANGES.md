@@ -3,6 +3,14 @@
 This document describes the relevant changes between releases of the OCM API
 SDK.
 
+## 0.1.518 Oct 19 2026
+
+- chore: bump version to v0.1.519
+- ROSAENG-65577 | fix: PQC: Enforce MinVersion TLS 1.3 with opt-out (Phase 4)
+- chore: bump ocm-api-model to v0.0.471
+- chore: bump version to v0.1.518
+
+
 ## 0.1.519 Oct 19 2026
 
 - ROSAENG-65577 | fix: PQC: Enforce MinVersion TLS 1.3 with opt-out (Phase 4)

@@ -3,6 +3,12 @@
 This document describes the relevant changes between releases of the OCM API
 SDK.
 
+## 0.1.520 Nov 05 2026
+
+- chore: bump version to v0.1.520
+- chore: bump ocm-api-model to v0.0.472
+
+
 ## 0.1.520 Oct 29 2026
 
 - chore: bump ocm-api-model to v0.0.472

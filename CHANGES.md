@@ -5,6 +5,12 @@ SDK.
 
 ## 0.1.521 Nov 06 2026
 
+- chore: bump version to v0.1.521
+- ROSAENG-74988 | feat: regenerate and release Phase-2 cluster autoscaler configurations
+
+
+## 0.1.521 Nov 06 2026
+
 - ROSAENG-74988 | feat: regenerate and release Phase-2 cluster autoscaler configurations
 
 
